@@ -1,4 +1,4 @@
-Here are some projects and exercises I worked on while studying at ReDi School of Digital Integration.
+Here are some projects and exercises I worked on at ReDi School of Digital Integration.
 ## Machine Learning <br>
 [Prediction_XGBoost](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/colab/Prediction_XGBoost.ipynb)
 [Prediction_LogisticRegression](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/colab/Prediction_LogisticRegression.ipynb)
