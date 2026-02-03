@@ -1,8 +1,8 @@
 Here are some projects and exercises I worked on at ReDi School of Digital Integration.
 ## Machine Learning <br>
-[Prediction_XGBoost](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/colab/Prediction_XGBoost.ipynb)
-[Prediction_LogisticRegression](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/colab/Prediction_LogisticRegression.ipynb)
-[DataCleaning](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/colab/DataCleaning.ipynb)
+- [Prediction_XGBoost](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/colab/Prediction_XGBoost.ipynb)
+- [Prediction_LogisticRegression](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/colab/Prediction_LogisticRegression.ipynb)
+- [DataCleaning](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/colab/DataCleaning.ipynb)
 <br><br>
 
 ## Data Analytics  <br>
