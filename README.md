@@ -15,7 +15,6 @@ Here are some projects and exercises I worked on at ReDi School of Digital Integ
 #### Exercises
 - [Immobilien Scout 24-part 1](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/notebook/Immobilien_Scout_24_part_1.ipynb)
 - [Immobilien Scout 24-part 2](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/notebook/Immobilien_Scout_24_part_2.ipynb)
-- [Statistics Hands on Practice](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/notebook/Statistics_Hands_on_Practice.ipynb)
 - [Berlin Rentals](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/notebook/Berlin_Rentals_eda.ipynb)
 
 ### SQL
