@@ -10,7 +10,7 @@ Here are some projects and exercises I worked on at ReDi School of Digital Integ
 ### Python 
 #### Projects
 - [Titanic - Data Exploration and Storytelling](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/notebook/Titanic_Data_Exploration_and_Storytelling.ipynb)
-- [Employee Attrition - Python Project](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/notebook/Employee_Attrition_eda_Project.ipynb)
+- [Employee Attrition - Project](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/notebook/Employee_Attrition_eda_Project.ipynb)
   
 #### Exercises
 - [Immobilien Scout 24-part 1](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/notebook/Immobilien_Scout_24_part_1.ipynb)
