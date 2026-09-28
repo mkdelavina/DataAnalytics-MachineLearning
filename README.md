@@ -3,6 +3,7 @@ Here are some projects and exercises I worked on at ReDi School of Digital Integ
 - [Prediction_XGBoost](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/notebook/Prediction_XGBoost.ipynb)
 - [Prediction_LogisticRegression](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/notebook/Prediction_LogisticRegression.ipynb)
 - [cars_eda](https://github.com/mkdelavina/DataAnalytics-MachineLearning/blob/main/notebook/cars_eda.ipynb)
+- [Other Project Contribution](https://github.com/STetiana/stackoverflow_buddies/tree/main)
 <br><br>
 
 ## Data Analytics  <br>
